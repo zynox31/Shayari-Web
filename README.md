@@ -14,7 +14,7 @@ Welcome to **Shayari Web**! This platform is a static web application where user
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Shayari-Web.git
+   git clone https://github.com/zynox31/Shayari-Web.git
    ```
 2. **Navigate to the project folder**:
    ```bash
